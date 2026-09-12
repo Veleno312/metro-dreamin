@@ -1,0 +1,1 @@
+InvoiceSanity public beta is temporarily disabled while the legal/business launch structure is reviewed. No paid service is currently offered from this repository.
